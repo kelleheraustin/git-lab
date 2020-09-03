@@ -77,3 +77,16 @@ Date:   Thu Sep 3 15:29:44 2020 -0400
     Initial commit
 
 Answer 9: my repo is showing both the README and answers files .
+
+Answer 10:  No it did not change my local files when editing it online
+
+Answer 11:  It was rejected because it contains work that I have not done locally.
+
+Answer 12: Yes it has now been updated on my local copy
+
+Answer 13: ls -a
+.        ..        .git        .gitignore    README.md
+
+I have two hidden files, my .git file, my .gitignore, and readme.
+
+
